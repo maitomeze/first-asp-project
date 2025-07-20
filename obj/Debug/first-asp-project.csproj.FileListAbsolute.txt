@@ -1,0 +1,8 @@
+C:\Users\AL-Thuraya\source\repos\first-asp-project\first-asp-project\bin\Debug\first-asp-project.exe.config
+C:\Users\AL-Thuraya\source\repos\first-asp-project\first-asp-project\bin\Debug\first-asp-project.exe
+C:\Users\AL-Thuraya\source\repos\first-asp-project\first-asp-project\bin\Debug\first-asp-project.pdb
+C:\Users\AL-Thuraya\source\repos\first-asp-project\first-asp-project\obj\Debug\first-asp-project.csproj.AssemblyReference.cache
+C:\Users\AL-Thuraya\source\repos\first-asp-project\first-asp-project\obj\Debug\first-asp-project.csproj.SuggestedBindingRedirects.cache
+C:\Users\AL-Thuraya\source\repos\first-asp-project\first-asp-project\obj\Debug\first-asp-project.csproj.CoreCompileInputs.cache
+C:\Users\AL-Thuraya\source\repos\first-asp-project\first-asp-project\obj\Debug\first-asp-project.exe
+C:\Users\AL-Thuraya\source\repos\first-asp-project\first-asp-project\obj\Debug\first-asp-project.pdb
